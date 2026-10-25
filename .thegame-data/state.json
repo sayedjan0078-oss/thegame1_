@@ -142,14 +142,14 @@
       },
       {
         "id": "b3",
-        "title": "رد دد ریدمپشن ۲",
+        "title": "رد دد ریدمپfdfdشن ۲",
         "desc": "غرب وحشی در دستان شما",
         "gameId": 4,
-        "image": null,
         "gradient": "ad-3",
-        "deco": "RD"
+        "deco": "RD",
+        "image": null
       }
     ]
   },
-  "updatedAt": "2026-10-25T17:56:38.070Z"
+  "updatedAt": "2026-10-25T17:56:40.649Z"
 }
