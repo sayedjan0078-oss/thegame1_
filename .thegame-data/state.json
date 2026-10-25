@@ -1,0 +1,36 @@
+{
+  "sharedState": {
+    "customGames": [],
+    "deletedBaseIds": [],
+    "banners": [
+      {
+        "id": "b1",
+        "title": "الدن رینگ",
+        "desc": "تجربه حماسه‌ای فراموش‌نشدنی در دنیای بین‌ظیر",
+        "gameId": 1,
+        "image": null,
+        "gradient": "ad-1",
+        "deco": "ER"
+      },
+      {
+        "id": "b2",
+        "title": "سایبرپانک ۲۰۷۷",
+        "desc": "سفر به نایت سیتی، شهر آینده",
+        "gameId": 2,
+        "image": null,
+        "gradient": "ad-2",
+        "deco": "CP"
+      },
+      {
+        "id": "b3",
+        "title": "رد دد ریدمپشن ۲",
+        "desc": "غرب وحشی در دستان شما",
+        "gameId": 4,
+        "image": null,
+        "gradient": "ad-3",
+        "deco": "RD"
+      }
+    ]
+  },
+  "updatedAt": "2026-10-25T16:05:35.223Z"
+}
